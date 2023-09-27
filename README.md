@@ -1,4 +1,4 @@
-<p align="center"><a href="https://wireplate.com/"><img src="http://test1.wireplate.com/assets/images/dots.png"/></a></p><br />
+<p align="center"><a href="https://wireplate.com/"><img src="http://wireplate.com/assets/images/dots.png"/></a></p><br />
 
 # Wireplate Help & Support
 
